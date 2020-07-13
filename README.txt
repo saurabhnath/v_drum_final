@@ -7,6 +7,6 @@ How to use:
 
     cd desktop
     cd v_drum_final
-    source  env/bin/activate
+    source  venv/bin/activate
     cd drum
     python  main.py
