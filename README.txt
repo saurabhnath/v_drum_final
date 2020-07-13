@@ -2,7 +2,7 @@ How to use:
 
 1.MAC OS :
 
-  * first copy the pograme file (v_drum_final) to the desktop
+  * first copy the project file (v_drum_final) to the desktop
   * open terminal ---> paste the code bellow:
 
     cd desktop
